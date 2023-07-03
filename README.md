@@ -1,3 +1,2 @@
 # StrukturData
-
-# repo ini berisi file kodingan tugas besar struktur data pada semester 3
+repo ini berisi file kodingan tugas besar struktur data pada semester 3
