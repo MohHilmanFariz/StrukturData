@@ -1,3 +1,3 @@
 # StrukturData
 
-# dimana saa mencoba menambahkan tulisan
+# repo ini berisi file kodingan tugas besar struktur data pada semester 3
